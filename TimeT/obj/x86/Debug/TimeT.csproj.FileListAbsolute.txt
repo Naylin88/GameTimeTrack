@@ -1,0 +1,19 @@
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\bin\Debug\TimeT.exe
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\bin\Debug\TimeT.pdb
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\obj\x86\Debug\TimeT.Form1.resources
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\obj\x86\Debug\TimeT.Properties.Resources.resources
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\obj\x86\Debug\TimeT.csproj.GenerateResource.Cache
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\obj\x86\Debug\TimeT.exe
+C:\Users\Chico\Favorites\Documents\Visual Studio 2010\Projects\TimeT\TimeT\obj\x86\Debug\TimeT.pdb
+C:\Users\Chico\favorites\documents\visual studio 2010\Projects\TimeT\TimeT\obj\x86\Debug\TimeT.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\TimeT\TimeT\obj\x86\Debug\TimeT.exe
+C:\Users\admin\Desktop\TimeT\TimeT\obj\x86\Debug\TimeT.pdb
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\bin\Debug\TimeT.exe
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\bin\Debug\TimeT.pdb
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.Form1.resources
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.Properties.Resources.resources
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.exe
+C:\Users\user\Downloads\Azzuri\TimeT\TimeT\obj\x86\Debug\TimeT.pdb

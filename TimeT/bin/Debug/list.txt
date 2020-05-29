@@ -1,0 +1,146 @@
+﻿31/07/2016 12:45:22
+31/07/2016 12:45:26
+#1 BILL: 
+Ordered Food: GamePlay 
+Price: £0.00
+
+Food Total: £0.00
+Game Play: 83.35
+Total: £83.35
+***********
+31/07/2016 01:06:04
+31/07/2016 01:06:08
+#1 Bill: 
+Ordered Food: Soda 
+Price: £600.00
+Ordered Food: Curry 
+Price: £600.00
+Ordered Food: GamePlay 
+Price: £0.00
+
+Food Total: £1,200.00
+Game Play: 83.35
+Total: £1,283.35
+***********
+04/08/2016 11:04:06
+04/08/2016 11:04:12
+No.3
+Food: ပဲနို့ 
+Price: £500.00
+
+Food Total: £500.00
+Game Play: 66.68
+Total: £566.68
+***********
+05/08/2016 12:04:31
+05/08/2016 12:04:35
+No.13
+Food: Mild7(1) 
+Price: £100.00
+Food: ၾကာဇံ(ၾကက္ဥ) 
+Price: £600.00
+Food: သံပုရာရည္ 
+Price: £1,000.00
+
+Food Total: £1,700.00
+Game Play: 50.01
+Total: £1,750.01
+***********
+06/08/2016 12:10:03
+06/08/2016 12:10:16
+No.2
+Food: Ruby(2) 
+Price: £50.00
+
+Food Total: £50.00
+Game Play: 200.04
+Total: £250.04
+***********
+06/08/2016 12:09:18
+06/08/2016 12:11:03
+No.1
+Food: Mild7(1) 
+Price: £100.00
+Food: GamePlay 
+Price: £0.00
+
+Food Total: £100.00
+Game Play: 750.15
+Total: £850.15
+***********
+06/08/2016 12:18:35
+06/08/2016 12:18:51
+No.2
+Food: Mild7(1) 
+Price: £100.00
+Food: ခ်ဥ္စပ္(ၾကက္ဥ) 
+Price: £600.00
+Food: GamePlay 
+Price: £0.00
+
+Food Total: £700.00
+Game Play: 250.05
+Total: £950.05
+***********
+06/08/2016 12:30:34
+06/08/2016 12:30:38
+No.1
+Food: Mild7(1) 
+Price: £100.00
+Food: ထမင္းဆီဆမ္း 
+Price: £400.00
+
+Food Total: £500.00
+Game Play: 50.01
+Total: £550.01
+***********
+06/08/2016 12:33:46
+06/08/2016 12:33:50
+No.3
+Food: Water 
+Price: £300.00
+
+Food Total: £300.00
+Game Play: 50.01
+Total: £350.01
+***********
+06/08/2016 12:35:21
+06/08/2016 12:35:31
+No.2
+Food: ပဲနို့ 
+Price: £500.00
+
+Food Total: £500.00
+Game Play: 150.03
+Total: £650.03
+***********
+06/08/2016 12:37:59
+06/08/2016 12:38:02
+No.
+Food: GamePlay 
+Price: £0.00
+
+Food Total: £0.00
+Game Play: 33.34
+Total: £33.34
+***********
+06/08/2016 12:40:24
+06/08/2016 12:40:28
+No.
+Food: GamePlay 
+Price: £0.00
+
+Food Total: £0.00
+Game Play: 50.01
+Total: £50.01
+***********
+06/08/2016 12:43:04
+06/08/2016 12:43:08
+No.
+Food: Ruby(2) 
+Price: £50.00
+
+Food Total: £50.00
+Game Play: 50.01
+Total: £100.01
+***********
